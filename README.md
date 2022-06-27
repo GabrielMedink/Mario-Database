@@ -1,2 +1,2 @@
 # Mario-Database
-<p> This was my first database. :-) </p
+<p> My first database. :-) </p
